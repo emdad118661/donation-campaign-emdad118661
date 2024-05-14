@@ -33,6 +33,7 @@ const Donations = () => {
         }
         else{
             toast("Category not found. Try Again");
+            toast("Always use first letter capital.");
         }
         
 
@@ -64,7 +65,7 @@ const Donations = () => {
                     <h1 className="text-4xl font-bold text-white">I Grow By Helping People In Need</h1>
                     <br />
                     <div className="flex">
-                        <input type="text" placeholder="Type here" id="search" className="w-full max-w-xl input input-bordered" />
+                        <input type="text" placeholder="Search Category..." id="search" className="w-full max-w-xl input input-bordered" />
                         <button onClick={handleSearch} className="btn bg-[#FF444A] text-white">search</button>
                     </div>
                 </div>

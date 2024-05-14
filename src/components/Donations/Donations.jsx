@@ -15,9 +15,9 @@ const Donations = () => {
 
     return (
         <div>
-            <h2 className="text-6xl">Donations: {donations.length}</h2>
+            <h2 className="text-3xl">Donations: {donations.length}</h2>
             <br />
-            <div className="grid md:grid-cols-4 gap-6">
+            <div className="grid gap-6 md:grid-cols-4">
                 {
                    donations.map(donation => <Donation key={donation.id} donation={donation}></Donation>)
                 }

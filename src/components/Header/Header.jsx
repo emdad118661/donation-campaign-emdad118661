@@ -12,7 +12,7 @@ const Header = () => {
                         </div>
                         <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                             <li className="font-bold hover:text-[#FF444A] hover:underline"><NavLink to="/">Home</NavLink></li>
-                            <li className="font-bold hover:text-[#FF444A] hover:underline"><a>Donation</a></li>
+                            <li className="font-bold hover:text-[#FF444A] hover:underline"><NavLink to="/donations">Donation</NavLink></li>
                             <li className="font-bold hover:text-[#FF444A] hover:underline"><a>Statistics</a></li>
                         </ul>
                     </div>
@@ -23,7 +23,7 @@ const Header = () => {
                     <div className="hidden navbar-center lg:flex">
                         <ul className="px-1 menu menu-horizontal">
                             <li className="font-bold hover:text-[#FF444A] hover:underline"><NavLink to="/">Home</NavLink></li>
-                            <li className="font-bold hover:text-[#FF444A] hover:underline"><a>Donation</a></li>
+                            <li className="font-bold hover:text-[#FF444A] hover:underline"><NavLink to="/donations">Donation</NavLink></li>
                             <li className="font-bold hover:text-[#FF444A] hover:underline"><a>Statistics</a></li>
                         </ul>
                     </div>

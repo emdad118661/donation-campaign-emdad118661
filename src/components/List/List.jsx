@@ -30,7 +30,7 @@ const List = ({ donation }) => {
             <figure><img className="h-full" src={picture} alt="Movie" /></figure>
             <div className="card-body">
                 <small className="pt-1 text-center rounded" style={categoryBg}>{category}</small>
-                <h2 className="card-title">New movie is released!</h2>
+                <h2 className="card-title">{title}</h2>
                 <p style={textColor}>{price}</p>
                 <div>
                     <Link to={`/donation/${id}`}><button style={btnColor}>View Details</button></Link>

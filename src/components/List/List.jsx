@@ -35,8 +35,8 @@ const List = ({ donation }) => {
                 <div>
                     <Link to={`/donation/${id}`}><button style={btnColor}>View Details</button></Link>
                 </div>
-
             </div>
+
         </div>
     );
 };

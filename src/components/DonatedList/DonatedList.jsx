@@ -9,6 +9,7 @@ const DonatedList = () => {
 
     const [donatedList, setDonatedList] = useState([]);
     const [displayDonatedList, setDisplayDonatedList] = useState([]);
+    const [dataLength, setDataLength] = useState(4);
 
     
 
@@ -40,8 +41,12 @@ const DonatedList = () => {
             <br />
             <div className="grid grid-cols-2 gap-4">
                 {
-                    displayDonatedList.map(donation => <List key={donation.id} donation={donation}></List>)
+                    displayDonatedList.slice(0,dataLength).map(donation => <List key={donation.id} donation={donation}></List>)
                 }
+            </div>
+            <br />
+            <div className={dataLength === donations.length ? "hidden" : "text-center"}>
+                <button onClick={()=>setDataLength(donations.length)} className="btn bg-[#009444] text-white">See All</button>
             </div>
         </div>
     );

@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.postimg.cc/cCMTGgH7/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "rgba(0, 82, 255, .20)",
+      "card_bg": "rgba(0, 82, 255, .15)",
+      "text_button_bg": "rgba(0, 82, 255, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$99.99"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.postimg.cc/3JNDT0dK/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "rgba(255, 68, 74, .20)",
+      "card_bg": "rgba(255, 68, 74, .15)",
+      "text_button_bg": "rgba(255, 68, 74, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$49.99"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.postimg.cc/wBwpgMtp/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "rgba(121, 194, 63, .20)",
+      "card_bg": "rgba(121, 194, 63, .15)",
+      "text_button_bg": "rgba(121, 194, 63, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$149.99"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.postimg.cc/rwcspdp0/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "rgba(248, 113, 71, .20)",
+      "card_bg": "rgba(248, 113, 71, .15)",
+      "text_button_bg": "rgba(248, 113, 71, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$29.99"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.postimg.cc/rwcspdp0/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "rgba(248, 113, 71, .20)",
+      "card_bg": "rgba(248, 113, 71, .15)",
+      "text_button_bg": "rgba(248, 113, 71, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$29.99"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.postimg.cc/wBwpgMtp/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "rgba(121, 194, 63, .20)",
+      "card_bg": "rgba(121, 194, 63, .15)",
+      "text_button_bg": "rgba(121, 194, 63, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$149.99"
+    },
+    {
+      "id": 7,
+      "picture": "https://i.postimg.cc/3JNDT0dK/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "rgba(255, 68, 74, .20)",
+      "card_bg": "rgba(255, 68, 74, .15)",
+      "text_button_bg": "rgba(255, 68, 74, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$49.99"
+    },
+    {
+      "id": 8,
+      "picture": "https://i.postimg.cc/cCMTGgH7/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "rgba(0, 82, 255, .20)",
+      "card_bg": "rgba(0, 82, 255, .15)",
+      "text_button_bg": "rgba(0, 82, 255, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$99.99"
+    },
+    {
+      "id": 9,
+      "picture": "https://i.postimg.cc/cCMTGgH7/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "rgba(0, 82, 255, .20)",
+      "card_bg": "rgba(0, 82, 255, .15)",
+      "text_button_bg": "rgba(0, 82, 255, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$99.99"
+    },
+    {
+      "id": 10,
+      "picture": "https://i.postimg.cc/3JNDT0dK/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "rgba(255, 68, 74, .20)",
+      "card_bg": "rgba(255, 68, 74, .15)",
+      "text_button_bg": "rgba(255, 68, 74, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$49.99"
+    },
+    {
+      "id": 11,
+      "picture": "https://i.postimg.cc/wBwpgMtp/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "rgba(121, 194, 63, .20)",
+      "card_bg": "rgba(121, 194, 63, .15)",
+      "text_button_bg": "rgba(121, 194, 63, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$149.99"
+    },
+    {
+      "id": 12,
+      "picture": "https://i.postimg.cc/rwcspdp0/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "rgba(248, 113, 71, .20)",
+      "card_bg": "rgba(248, 113, 71, .15)",
+      "text_button_bg": "rgba(248, 113, 71, 1)",
+      "description": "The most important thing is that cows give us milk. They are an essential source of milk for mankind. The milk given by cows helps us in staying healthy and strong. Milk has a lot of benefits which keeps various illnesses away. Moreover, it also enhances our immune system. The milk also produces a lot of products like butter, cream, curd, cheese and more. Even the cow dung is used for many purposes. People use it as a really rich fertilizer. In addition, cow dung is also an efficient producer of fuel and biogas. Cow dung is also used as an insect repellent. Plus, people also use it as abuilding material and raw material for paper making.",
+      "price": "$29.99"
+    }
+  ]
+  

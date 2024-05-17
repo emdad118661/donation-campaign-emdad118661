@@ -40,7 +40,7 @@ const DonatedList = () => {
         <div className="mx-auto max-w-7xl">
             <h1 className="text-3xl">Donated List: {donatedList.length}</h1>
             <br />
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid gap-4 md:grid-cols-2">
                 {
                     displayDonatedList.slice(0, dataLength).map(donation => <List key={donation.id} donation={donation}></List>)
                 }

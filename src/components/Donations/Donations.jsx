@@ -12,28 +12,28 @@ const Donations = () => {
     
     const handleSearch = () =>{
         const inputValue = document.getElementById("search").value
-        if(inputValue == "Health"){
+        if(inputValue == "Health" || inputValue == "health"){
             const healthDonations = donations.filter(donation => donation.category === "Health")
             setDisplayDonations(healthDonations);
         }
-        else if(inputValue == "Education"){
+        else if(inputValue == "Education" || inputValue == "education"){
             const educationDonation = donations.filter(donation => donation.category === "Education")
             setDisplayDonations(educationDonation);
         }
-        else if(inputValue == "Clothing"){
+        else if(inputValue == "Clothing" || inputValue == "clothing"){
             const clothingDonation = donations.filter(donation => donation.category === "Clothing")
             setDisplayDonations(clothingDonation);
         }
-        else if(inputValue == "Food"){
+        else if(inputValue == "Food" || inputValue == "food"){
             const foodDonation = donations.filter(donation => donation.category === "Food")
             setDisplayDonations(foodDonation);
         }
-        else if(inputValue == "All"){
+        else if(inputValue == "All" || inputValue == "all"){
             setDisplayDonations(donations);
         }
         else{
             toast("Category not found. Try Again");
-            toast("Always use first letter capital.");
+            toast("Always use first letter capital and other letters small letter");
         }
         
 
@@ -65,7 +65,7 @@ const Donations = () => {
                     <h1 className="text-4xl font-bold text-white">I Grow By Helping People In Need</h1>
                     <br />
                     <div className="flex">
-                        <input type="text" placeholder="Search Category..." id="search" className="w-full max-w-xl input input-bordered" />
+                        <input type="text" placeholder="Search by Category..." id="search" className="w-full max-w-xl input input-bordered" />
                         <button onClick={handleSearch} className="btn bg-[#FF444A] text-white">search</button>
                     </div>
                 </div>
